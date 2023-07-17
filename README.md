@@ -1,4 +1,4 @@
-
+![logo](https://github.com/ramanjot29/ramanjot29/blob/main/Github%20Banner.jpg)
 <h1 align="center">Hi 👋, I'm Ramanjot Singh</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
