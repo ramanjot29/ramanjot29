@@ -6,7 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramanjot29&label=Profile%20views&color=0e75b6&style=flat" alt="ramanjot29" /> </p>
 
-- 🌱 I’m currently learning **Data Science**
 
 - 📫 How to reach me **ramanjotsingh1212@gmail.com**
 
